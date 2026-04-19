@@ -1,4 +1,6 @@
 # Task 2 – UGC Ads (Egg Maggi)
+## Project Description
+This project focuses on creating UGC-style ad content for a street-style egg maggi product using AI prompts. It includes viral hooks, short ad scripts, and engaging captions.
 
 ## Prompt
 Act as a UGC content creator and marketing expert.
